@@ -7,6 +7,7 @@ body{
   padding:0;
   font-family: 'Asap', sans-serif;
   color:#fff;
+  min-height: 100vh;
 }
 
 .h1{
@@ -34,8 +35,8 @@ body{
 .user{
   left:-20px;
 }
-.comp{
-  right:-25px;
+.comp {
+    right: -50px;
 }
 .choises{
   margin: 50px 0;
